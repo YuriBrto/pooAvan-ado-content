@@ -28,7 +28,7 @@ O código está organizado em três classes:
 
 * O código é um exemplo simples e pode ser expandido com mais funcionalidades.
 * A segurança da senha não foi implementada neste exemplo. Para um sistema real, é fundamental implementar mecanismos de criptografia para proteger as senhas.
-* A implementação da classe `Conteudo` é apenas um exemplo. Você precisará implementar a lógica para os métodos `createContent`, `listContent`, `updateContent` e `deleteContent` de acordo com suas necessidades.
+
 
 ### **Contribuições:**
 
